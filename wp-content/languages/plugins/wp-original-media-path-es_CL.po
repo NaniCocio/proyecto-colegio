@@ -1,0 +1,76 @@
+# Translation of Plugins - WP Original Media Path - Development (trunk) in Spanish (Chile)
+# This file is distributed under the same license as the Plugins - WP Original Media Path - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-09-10 19:16:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: es_CL\n"
+"Project-Id-Version: Plugins - WP Original Media Path - Development (trunk)\n"
+
+#. Description of the plugin
+msgid "Change the location for the uploads folder for WordPress"
+msgstr "Cambia la ubicación de la carpeta uploads de WordPress"
+
+#: pages/options.php:24 wp_original_media_path.php:193
+msgid "Donate"
+msgstr "Donar"
+
+#: wp_original_media_path.php:64
+msgid "This plugin is not compatible with WordPress multisite. Sorry for the inconvenience."
+msgstr "Este plugin no es compatible con WordPress multisitio. Perdón por las molestias."
+
+#. Plugin URI of the plugin
+msgid "https://github.com/rvola/wp-original-media-path"
+msgstr "https://github.com/rvola/wp-original-media-path"
+
+#: wp_original_media_path.php:272
+msgid "Activate that if you are aware of what you are doing."
+msgstr "Actívalo sólo si estás consciente de lo que estás haciendo."
+
+#: wp_original_media_path.php:269
+msgid "Expert mode"
+msgstr "Modo experto"
+
+#: wp_original_media_path.php:287
+msgid "Simply specify the url for your upload folder. Be careful, if you want a domain other than %s, make sure to point the domain (DNS) to the desired folder on your current server. The plugin can not upload to any other server than this one."
+msgstr "Simplemente especifica la URL para tu carpeta de subida. Ten cuidado, si deseas usar un dominio distinto de %s, asegúrate de apuntar el dominio (DNS) a la carpeta deseada en el servidor actual. El plugin no puede subir a ningún otro servidor distinto a este."
+
+#: wp_original_media_path.php:66
+msgid "Error : %s"
+msgstr "Error: %s"
+
+#. Plugin Name of the plugin
+msgid "WP Original Media Path"
+msgstr "WP Original Media Path"
+
+#: pages/options.php:15 wp_original_media_path.php:188
+msgid "How to Configure"
+msgstr "Cómo Configurar"
+
+#: pages/options.php:10 wp_original_media_path.php:183
+msgid "FAQ"
+msgstr "FAQ"
+
+#: wp_original_media_path.php:284
+msgid "Full URL path to files"
+msgstr "URL completa para los archivos"
+
+#: wp_original_media_path.php:279
+msgid "Default is %s"
+msgstr "Por defecto es %s"
+
+#: wp_original_media_path.php:278
+msgid "Store uploads in this folder"
+msgstr "Guardar los archivos a esta carpeta"
+
+#: wp_original_media_path.php:240
+msgid "Uploading Files"
+msgstr "Carga de Archivos"
+
+#: wp_original_media_path.php:167
+msgid "Settings"
+msgstr "Opciones"
